@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/katunde/
 Email: katalin.tunde.kovacs@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-[Mondanivaló on Vercel](https://mondanival.vercel.app)
+[Mondanivaló on Vercel](https://mondanivalo.vercel.app)
 
 [Mondanivaló on GitHub](https://github.com/katigirl/mondanivalo-nextjs)
 
