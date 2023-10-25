@@ -13,11 +13,12 @@ Email: katalin.tunde.kovacs@gmail.com
 [Mondanivaló on GitHub](https://github.com/katigirl/mondanivalo-nextjs)
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
-LeetCode: https://leetcode.com/user4109Fa/
 
 Hackerrank: https://www.hackerrank.com//katalin_tunde_k1
 
 Codewars: https://www.codewars.com/users/katigirl
+
+LeetCode: https://leetcode.com/user4109Fa/
 
 ## &rarr; [Interview tests](https://github.com/green-fox-academy/teaching-materials/tree/master/project-phase/tech-interview-tests)
 
