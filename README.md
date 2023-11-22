@@ -12,6 +12,8 @@ Email: katalin.tunde.kovacs@gmail.com
 
 [Mondanivaló on GitHub](https://github.com/katigirl/mondanivalo-nextjs)
 
+[My Portfolio](https://katigirl.vercel.app/)
+
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 
 Hackerrank: https://www.hackerrank.com//katalin_tunde_k1
